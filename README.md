@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @htm-len
-- 👀 I’m interested in Development, Cloud, and automation
-- 🌱 I’m currently learning terraform, spacelift, aws cloud services 
-- 💞️ I’m looking to collaborate on building a CD/CI pipeline
+## Welcome to My GitHub Profile! 👋
+
+### About Me:
+🔹 **Hi, I'm [@htm-len](https://github.com/htm-len)!**  
+🔹 I have a passion for **Development, Cloud Computing, and Automation**.  
+
+### What I'm Up To:
+- 🌱 **Learning:** Currently, I'm diving into **Terraform, Spacelift,** and **AWS Cloud Services** to enhance my cloud infrastructure skills.
+- 💞️ **Collaboration:** I'm on the lookout for opportunities to collaborate on **building CD/CI pipelines**. I believe in the power of automation and how it can transform the development process.
+
+### Let's Connect!
+- If you're interested in **Development**, **Cloud Technologies**, or **Automation** and looking to collaborate on innovative projects, I'd love to connect with you.
+- **[GitHub](https://github.com/htm-len)**
+
+### My Goals:
+- To continuously learn and grow in the field of cloud computing and automation.
+- To contribute to meaningful projects that leverage the power of CI/CD pipelines for streamlined development.
+
+🌟 **Let's build something amazing together.** 🌟
 
 
 <!---
