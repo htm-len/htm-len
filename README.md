@@ -1,22 +1,26 @@
-## Welcome to My GitHub Profile! 👋
+## Welcome to My GitHub Profile! 👋🏾
 
-### About Me:
-🔹 **Hi, I'm [@htm-len](https://github.com/htm-len)!**  
-🔹 I have a passion for **Development, Cloud Computing, and Automation**.  
+### About Me 🧑🏾‍💻
 
-### What I'm Up To:
-- 🌱 **Learning:** Currently, I'm diving into **Terraform, Spacelift,** and **AWS Cloud Services** to enhance my cloud infrastructure skills.
-- 💞️ **Collaboration:** I'm on the lookout for opportunities to collaborate on **building CD/CI pipelines**. I believe in the power of automation and how it can transform the development process.
+🔹 **Hi, I'm [@htm-len](https://github.com/htm-len)!** A passionate developer with a keen interest in **Development, Cloud Computing, and Automation**.
 
-### Let's Connect!
-- If you're interested in **Development**, **Cloud Technologies**, or **Automation** and looking to collaborate on innovative projects, I'd love to connect with you.
-- **[GitHub](https://github.com/htm-len)**
+* Languages:  `Bash`, `Python`, `JavaScript`, `HTML5/CSS3`
+* Tools: `Docker`, `Terraform`, `Flask`, `VSCODE`, `GIT`
+* Platforms: `AWS`
 
-### My Goals:
-- To continuously learn and grow in the field of cloud computing and automation.
-- To contribute to meaningful projects that leverage the power of CI/CD pipelines for streamlined development.
+### What I'm Up To 🚀
 
-🌟 **Let's build something amazing together.** 🌟
+- 🌱 **Currently Learning:** Diving deeper into **Terraform** and **AWS** certifications to bolster my skills in cloud computing.
+- 💞️ **Looking to Collaborate** on projects focused on **building CD/CI pipelines**. I'm passionate about leveraging automation to streamline development processes.
+
+### Let's Connect! 🤝🏾
+
+- 📫 How to reach me: [GitHub](https://github.com/htm-len)
+
+*You never fail until you give up. I encourage everyone to keep going* 🍊
+
+
+
 
 
 <!---
