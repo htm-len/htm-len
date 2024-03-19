@@ -19,7 +19,7 @@ Interested in **Development**, **Cloud Technologies**, or **Automation**? Let's 
 
 *You never fail until you give up. I encourage everyone to keep going* 🍊
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5)
 
 
 
