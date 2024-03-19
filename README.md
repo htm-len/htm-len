@@ -1,8 +1,6 @@
-## Welcome to My GitHub Profile! 👋🏾
+## Hi Friends 👋🏿 ! 
 
-### About Me 🧑🏾‍💻
-
-🔹 **Hi, I'm [@htm-len](https://github.com/htm-len)!** A passionate developer with a keen interest in **Development, Cloud Computing, and Automation**.
+  🔹 **I'm [@htm-len](https://github.com/htm-len),** a passionate developer interested in **Development, Cloud Computing, and Automation**.
 
 * Languages:  `Bash`, `Python`, `JavaScript`, `HTML5/CSS3`
 * Tools: `Docker`, `Terraform`, `Flask`, `VSCODE`, `GIT`
@@ -10,12 +8,14 @@
 
 ### What I'm Up To 🚀
 
-- 🌱 **Currently Learning:** Diving deeper into **Terraform** and **AWS** certifications to bolster my skills in cloud computing.
-- 💞️ **Looking to Collaborate** on projects focused on **building CD/CI pipelines**. I'm passionate about leveraging automation to streamline development processes.
+- 🌱 **Learning:** Enhancing my ``Terraform`` and ``AWS`` knowledge.
+- 💞️ **Collaborating:** Eager to work on ``CI/CD`` pipelines to improve development workflows.
 
-### Let's Connect! 🤝🏾
+### Let's Connect! 🤝🏿
 
-- 📫 How to reach me: [GitHub](https://github.com/htm-len)
+Interested in **Development**, **Cloud Technologies**, or **Automation**? Let's make a difference together.
+
+- 📫 Reach me: [GitHub](https://github.com/htm-len)
 
 *You never fail until you give up. I encourage everyone to keep going* 🍊
 
