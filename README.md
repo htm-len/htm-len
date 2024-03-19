@@ -17,7 +17,7 @@ Interested in **Development**, **Cloud Technologies**, or **Automation**? Let's 
 
 - 📫 Reach me: [GitHub](https://github.com/htm-len)
 
-*You never fail until you give up. I encourage everyone to keep going* 🍊
+*You never fail until you give up. Keep going* 🍊
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5)
 
