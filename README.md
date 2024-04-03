@@ -1,6 +1,6 @@
 ## Hi Friends 👋🏿 ! 
 
-  🔹 **I'm [@htm-len](https://github.com/htm-len),** a passionate developer interested in **Development, Cloud Computing, and Automation**.
+  🔹 **I'm [@htm-len](https://github.com/htm-len),** a passionate developer interested in **Cloud Computing and Automation**.
 
 * Languages:  `Bash`, `Python`, `JavaScript`, `HTML5/CSS3`
 * Tools: `Docker`, `Terraform`, `Flask`, `VSCODE`, `GIT`
