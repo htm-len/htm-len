@@ -4,7 +4,7 @@
 
 * Languages:  `Bash`, `Python`, `JavaScript`, `HTML5/CSS3`
 * Tools: `Docker`, `Terraform`, `Flask`, `VSCODE`, `GIT`
-* Platforms: `AWS`
+* Platforms: `AWS` `Azure`
 
 ### What I'm Up To 🚀
 
