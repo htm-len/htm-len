@@ -2,8 +2,16 @@
   <img src="https://komarev.com/ghpvc/?username=htm-len&color=blue" alt="Visitors Badge" />
 </p>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Len+👋🏾" alt="Typing SVG">
+  </a>
+</h1>
+
+
+
 <p align="center">
-🔹 I'm <a href="https://github.com/htm-len">@htm-len</a>, a passionate developer interested in Cloud Computing and Automation.
+A passionate developer interested in Cloud Computing and Automation.
 </p>
 
 <p align="center">
