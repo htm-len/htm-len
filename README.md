@@ -47,7 +47,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5" alt="Anurag's GitHub stats" width="400" height="200" />
 </p>
 
 <!---
