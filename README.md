@@ -1,27 +1,54 @@
-## Hi Friends 👋🏿 ! 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=htm-len&color=blue" alt="Visitors Badge" />
+</p>
 
-  🔹 **I'm [@htm-len](https://github.com/htm-len),** a passionate developer interested in **Cloud Computing and Automation**.
+<p align="center">
+🔹 I'm <a href="https://github.com/htm-len">@htm-len</a>, a passionate developer interested in Cloud Computing and Automation.
+</p>
 
-* Languages:  `Bash`, `Python`, `JavaScript`, `HTML5/CSS3`
-* Tools: `Docker`, `Terraform`, `Flask`, `VSCODE`, `GIT`
-* Platforms: `AWS` `Azure`
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+</p>
 
-### What I'm Up To 🚀
+<h3 align="center">What I'm Up To 🚀</h3>
 
-- 🌱 **Learning:** Enhancing my ``Terraform`` and ``AWS`` knowledge.
-- 💞️ **Collaborating:** Eager to work on ``CI/CD`` pipelines to improve development workflows.
+<p align="center">
+  🌱 <strong>Learning:</strong> Enhancing my <code>Terraform</code> and <code>AWS</code> knowledge.<br>
+  💞️ <strong>Collaborating:</strong> Eager to work on <code>CI/CD</code> pipelines to improve development workflows.
+</p>
 
-### Let's Connect! 🤝🏿
+<h3 align="center">Let's Connect! 🤝🏿</h3>
 
-Interested in **Development**, **Cloud Technologies**, or **Automation**? Let's make a difference together.
+<p align="center">
+  Interested in <strong>Development</strong>, <strong>Cloud Technologies</strong>, or <strong>Automation</strong>? Let's make a difference together.
+</p>
 
-- 📫 Reach me: [GitHub](https://github.com/htm-len)
+<p align="center">
+  📫 Reach me: <a href="https://github.com/htm-len">GitHub</a>
+</p>
 
-*You never fail until you give up. Keep going* 🍊
+<p align="center">
+  <em>You never fail until you give up. Keep going</em> 🍊
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5)
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=5" alt="Anurag's GitHub stats" />
+</p>
 
 <!---
 htm-len/htm-len is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
