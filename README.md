@@ -10,7 +10,7 @@
   </a>
 </h1>
 <!-- Centered description -->
-<h2 align="center">A passionate Engineer interested in Cloud and Automation.</h2>
+<h2 align="center">A Passionate Engineer Interested in Cloud and Automation.</h2>
 
 <!-- Centered skills badges -->
 <h3 align="center">
