@@ -37,9 +37,10 @@
 
 <!-- Learning and Collaborating section -->
 <h4 align="center">
-  🌱 <strong>Learning:</strong> Enhancing my <code>Terraform</code> and <code>AWS</code> knowledge.<br>
-  💞️ <strong>Collaborating:</strong> Eager to work on <code>CI/CD</code> pipelines to improve development workflows.
+  🌱 <strong>Currently Learning:</strong> Advancing my skills in <code>Full Stack</code> and <code>Cloud Development</code>, with an emphasis on <code>Serverless Architecture</code> and <code>Backend Development</code>.<br>
+  💞️ <strong>Collaboration Goals:</strong> Interested in building efficient <code>CI/CD</code> pipelines to streamline development and improve cloud-based backend solutions.
 </h4>
+
 
 <!-- Let's Connect section -->
 <h3 align="center">Let's Connect! 🤝🏿</h3>
