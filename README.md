@@ -69,8 +69,18 @@
 <!-- GitHub Stats Section -->
 <h3 align="center">GitHub Stats 📊</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=10" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htm-len&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="335" />
+  <a href="https://github.com/htm-len">
+    <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=10" alt="GitHub Stats" width="400" />
+  </a>
+  <br><br>
+  <a href="https://github.com/htm-len">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htm-len&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
+  </a>
+  <br><br>
+  <!-- GitHub Activity Graph -->
+  <a href="https://github.com/htm-len">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=htm-len&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="700" />
+  </a>
 </div>
 
 <!-- Connect Section -->
