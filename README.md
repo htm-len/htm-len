@@ -77,11 +77,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htm-len&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
   </a>
   <br><br>
-  <!-- GitHub Activity Graph -->
-  <a href="https://github.com/htm-len">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=htm-len&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" width="700" />
-  </a>
-</div>
 
 <!-- Connect Section -->
 <h3 align="center">Let's Connect! 🤝🏿</h3>
