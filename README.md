@@ -22,7 +22,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Cloud Platforms (AWS, Azure, GCP)-232F3E?style=for-the-badge&logo=cloudflare&logoColor=white" />
   <img src="https://img.shields.io/badge/-Infrastructure as Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/-LLMs & Prompting-FF4081?style=for-the-badge&logo=OpenAI&logoColor=white" />
