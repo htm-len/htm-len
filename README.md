@@ -1,11 +1,12 @@
-<!-- Visitor Badge -->
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=htm-len.htm-len&style=flat-square&color=4169E1" alt="Visitors Badge" />
-</div>
-
 <!-- Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Hi,%20I'm%20Len&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=55&descAlign=50" />
+</p>
+
+<!-- Profile Views & Followers -->
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=htm-len.htm-len&style=flat-square&color=4169E1" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/htm-len?label=Followers&style=flat-square&color=4169E1" alt="GitHub Followers" />
 </p>
 
 <!-- Quick Tagline -->
