@@ -1,98 +1,87 @@
-<!-- Visitor Badge aligned to the right -->
-<h6 align="right">
-  <img src="https://komarev.com/ghpvc/?username=htm-len&color=blue" alt="Visitors Badge" />
-</h6>
-
-<!-- Animated centered heading with typing SVG -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+I'm+Len+👋🏾;Full+Stack+Developer;Cloud+Enthusiast;Problem+Solver" alt="Typing SVG">
-  </a>
-</h1>
-
-<!-- Centered description with emoji -->
-<h2 align="center">✨ A Passionate Developer with a Focus on Full Stack and Cloud Technologies ✨</h2>
-
-<div align="center">
-  
-  <!-- GitHub contribution streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htm-len&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
-  
+<!-- Visitor Badge -->
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=htm-len.htm-len&style=flat-square&color=4169E1" alt="Visitors Badge" />
 </div>
 
-<!-- About Me Section -->
-<h3 align="center">About Me 👨🏾‍💻</h3>
+<!-- Animated Header -->
 <p align="center">
-  Passionate about creating efficient, scalable solutions that solve real-world problems. My journey spans full-stack development and cloud architecture with a focus on performance and user experience.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Hi,%20I'm%20Len&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20Cloud%20Architect&descAlignY=55&descAlign=50" />
 </p>
 
-<!-- Skills Section with Organized Categories -->
-<h3 align="center">Tech Stack 🛠️</h3>
+<!-- Quick Tagline -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Building scalable solutions with code & cloud
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+
+<!-- Visual Profile -->
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="30"> Tech Focus
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cloud Platforms (AWS, Azure, GCP)-232F3E?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Infrastructure as Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLMs & Prompting-FF4081?style=for-the-badge&logo=OpenAI&logoColor=white" />
+  <img src="https://img.shields.io/badge/-APIs & Backend Systems-4B8BBE?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+---
+
+<!-- Tech Stack Section -->
+<h3 align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Stack
+</h3>
 
 <!-- Languages -->
-<h4 align="center">Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Typescript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" alt="typescript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
 </p>
 
 <!-- Cloud & DevOps -->
-<h4 align="center">Cloud & DevOps</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/CDK-FF9900?style=for-the-badge&logo=aws&logoColor=white" alt="CDK" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
-<!-- Tools & Frameworks -->
-<h4 align="center">Tools & Frameworks</h4>
+<!-- Tools -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
-<!-- Current Focus -->
-<h3 align="center">What I'm Up To 🚀</h3>
+<!-- GitHub Streak -->
+<h3 align="center">🔥 GitHub Streak</h3>
 <p align="center">
-  🌱 <strong>Currently Learning:</strong> Advancing my skills in <code>Full Stack</code> and <code>Cloud Development</code><br>
-  🔍 <strong>Exploring:</strong> <code>Serverless Architecture</code> and <code>Microservices</code><br>
-  💻 <strong>Working On:</strong> Building efficient <code>CI/CD</code> pipelines and cloud-based solutions
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=htm-len&theme=tokyonight&border_radius=10&fire=DD2727&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&background=0D1117&ring=4169E1&stroke=4169E1" width="500" />
 </p>
 
-<!-- GitHub Stats Section -->
-<h3 align="center">GitHub Stats 📊</h3>
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
   <a href="https://github.com/htm-len">
-    <img src="https://github-readme-stats.vercel.app/api?username=htm-len&theme=tokyonight&show_icons=true&border_radius=10" alt="GitHub Stats" width="400" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htm-len&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF&count_private=true&include_all_commits=true" />
   </a>
-  <br><br>
-  <a href="https://github.com/htm-len">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htm-len&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" width="400" />
+</div>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=htm-len&theme=github-dark&area=true&hide_border=true&bg_color=0D1117&line=4169E1&point=FFFFFF&color=FFFFFF&area_color=4169E1" width="830"/>
   </a>
-  <br><br>
-
-<!-- Connect Section -->
-<h3 align="center">Let's Connect! 🤝🏿</h3>
-<p align="center">
-  Interested in <strong>Development</strong>, <strong>Cloud Technologies</strong>, or <strong>Automation</strong>? Let's collaborate!
-</p>
-<p align="center">
-  📫 Reach me: <a href="https://github.com/htm-len">GitHub</a>
 </p>
 
-<!-- Inspirational Quote -->
+<!-- Animated Footer -->
 <p align="center">
-  <em>"You never fail until you give up. Keep going!"</em> 🍊
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=120&section=footer" />
 </p>
-
-<!---
-htm-len/htm-len is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
