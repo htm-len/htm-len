@@ -1,6 +1,6 @@
 <!-- Animated Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Hi,%20I'm%20Len&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4169E1&height=200&section=header&text=Hi,%20I'm%20Len&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20💻&descAlignY=55&descAlign=50" />
 </p>
 
 <!-- Profile Views & Followers -->
