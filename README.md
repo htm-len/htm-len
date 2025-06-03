@@ -65,18 +65,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=htm-len&theme=tokyonight&border_radius=10&fire=DD2727&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&sideNums=DDDDDD&sideLabels=DDDDDD&dates=DDDDDD&background=0D1117&ring=4169E1&stroke=4169E1" width="500" />
 </p>
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-  <a href="https://github.com/htm-len">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=htm-len&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=4169E1&icon_color=4169E1&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-  </a>
-</div>
 
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=htm-len&theme=github-dark&area=true&hide_border=true&bg_color=0D1117&line=4169E1&point=FFFFFF&color=FFFFFF&area_color=4169E1" width="830"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=htm-len&theme=react-dark&area=true&hide_border=true&bg_color=0D1117&line=4169E1&point=FFFFFF&color=FFFFFF&area_color=4169E1" width="830"/>
   </a>
 </p>
 
